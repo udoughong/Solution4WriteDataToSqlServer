@@ -1,0 +1,17 @@
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4CreateSqlDb.deps.json
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4CreateSqlDb.dll
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4CreateSqlDb.pdb
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4Ptx2GetJson.dll
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4PtxDbModel.dll
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\PTXHttpClientExtension.dll
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4Ptx2GetJson.pdb
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\ClassLib4PtxDbModel.pdb
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\bin\Debug\netstandard2.0\PTXHttpClientExtension.pdb
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.csproj.AssemblyReference.cache
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.AssemblyInfoInputs.cache
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.AssemblyInfo.cs
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.csproj.CoreCompileInputs.cache
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.csproj.CopyComplete
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.dll
+C:\Users\udoug\Source\Repos\Solution4WriteDataToSqlServer\Solution4PTX\ClassLib4CreateSqlDb\obj\Debug\netstandard2.0\ClassLib4CreateSqlDb.pdb

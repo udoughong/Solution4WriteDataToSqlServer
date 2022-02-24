@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebb84b33-80a6-4550-a386-d161c0fc40eb": {
+      "ProjectGuid": "ebb84b33-80a6-4550-a386-d161c0fc40eb",
+      "DisplayName": "Console4Ptx2GetJson",
+      "ColorIndex": 0
+    },
+    "f04ab0bd-7351-4455-9778-0eda569e76d0": {
+      "ProjectGuid": "f04ab0bd-7351-4455-9778-0eda569e76d0",
+      "DisplayName": "BlazorServerSignalRApp",
+      "ColorIndex": 1
+    },
+    "6988ba98-4060-4500-8354-fd7b12af79e4": {
+      "ProjectGuid": "6988ba98-4060-4500-8354-fd7b12af79e4",
+      "DisplayName": "BlazorWebAssemblySignalRApp.Client",
+      "ColorIndex": 2
+    },
+    "44f91379-7bfa-4e38-b02f-55bbc64b5e0d": {
+      "ProjectGuid": "44f91379-7bfa-4e38-b02f-55bbc64b5e0d",
+      "DisplayName": "BlazorApp1.Client",
+      "ColorIndex": 3
+    },
+    "9eba2e42-b19c-4f5f-bfbc-23603dd71e0a": {
+      "ProjectGuid": "9eba2e42-b19c-4f5f-bfbc-23603dd71e0a",
+      "DisplayName": "BlazorApp1.Server",
+      "ColorIndex": 4
+    },
+    "64e77dae-1457-48f6-9a90-f8affea88d88": {
+      "ProjectGuid": "64e77dae-1457-48f6-9a90-f8affea88d88",
+      "DisplayName": "Console4CreateSqlDb",
+      "ColorIndex": 5
+    },
+    "bed76f03-620c-475f-b2a5-1948d807b919": {
+      "ProjectGuid": "bed76f03-620c-475f-b2a5-1948d807b919",
+      "DisplayName": "ClassLib4Ptx2GetJson",
+      "ColorIndex": 6
+    },
+    "6e6e45d7-8170-4717-ae3a-6a9a44bfca5a": {
+      "ProjectGuid": "6e6e45d7-8170-4717-ae3a-6a9a44bfca5a",
+      "DisplayName": "Console4Ptx2ImportToSqlDb",
+      "ColorIndex": 7
+    },
+    "4dcfd5de-a440-4e85-89cd-99d3647556a9": {
+      "ProjectGuid": "4dcfd5de-a440-4e85-89cd-99d3647556a9",
+      "DisplayName": "ClassLib4CreateSqlDb",
+      "ColorIndex": 8
+    },
+    "0d6281ac-ca52-4c61-b577-36112bfe3fbe": {
+      "ProjectGuid": "0d6281ac-ca52-4c61-b577-36112bfe3fbe",
+      "DisplayName": "DemoAdoDotNet4ConsoleApp2DotNetFramework",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    },
+    "59f2a7fd-1ab6-47fe-b130-244814da966b": {
+      "ProjectGuid": "59f2a7fd-1ab6-47fe-b130-244814da966b",
+      "DisplayName": "Ado.net範例",
+      "ColorIndex": 10
+    },
+    "47fd1f64-86d8-4f9a-87da-1f63aa92de65": {
+      "ProjectGuid": "47fd1f64-86d8-4f9a-87da-1f63aa92de65",
+      "DisplayName": "Console4CreateSqlDb",
+      "ColorIndex": 11
+    },
+    "7dc81bc0-a0af-4b69-9f38-05d76150f524": {
+      "ProjectGuid": "7dc81bc0-a0af-4b69-9f38-05d76150f524",
+      "DisplayName": "BlazorApp1.Client",
+      "ColorIndex": 12
+    },
+    "ba3fcbd6-bc78-4ce4-acdd-8b2c3f310a61": {
+      "ProjectGuid": "ba3fcbd6-bc78-4ce4-acdd-8b2c3f310a61",
+      "DisplayName": "Console4ChainOfResponsibility",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

@@ -1,0 +1,52 @@
+{
+  "DbName": "ThePtxDbTraTrainTicketPrice",
+  "ConnectString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+  "Tables": [
+    "TraTrainTicketPrice"
+  ],
+  "TraTrainTicketPrice": [
+    {
+      "ContentFieldName": "OriginStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "OriginStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "DestinationStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "DestinationStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Direction",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TicketType",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Price",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "RequestUri": [
+    "MOTC/v2/Rail/TRA/ODFare?%24format=JSON",
+  ]
+}

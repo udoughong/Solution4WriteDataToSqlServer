@@ -1,0 +1,288 @@
+{
+  "DbName": "ThePtxDb",
+  "ConnectString": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",
+  "Tables": [
+    "TraTrainStation",
+    "TraTrainLine",
+    "TraTrainLineSteps",
+    "TraTrainTimeTable",
+    "TraTrainTicketPrice"
+  ],
+  "TraTrainStation": [
+    {
+      "ContentFieldName": "LocationCity",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LocationCityCode",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LocationTown",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LocationTownCode",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "OperatorID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationAddress",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationClass",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationPhone",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationPosition_PositionLon",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationPosition_PositionLat",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationPosition_GeoHash",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationUID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "TraTrainLine": [
+    {
+      "ContentFieldName": "LineID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LineNameZh",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LineNameEn",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LineSectionNameZh",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "LineSectionNameEn",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "IsBranch",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "TraTrainLineSteps": [
+    {
+      "ContentFieldName": "LineID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Sequence",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationName",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TraveledDistance",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "TraTrainTimeTable": [
+    {
+      "ContentFieldName": "ArrivalTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "DepartureTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Direction",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "EndingStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "EndingStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StartingStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StartingStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "StationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TrainDate",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TrainNo",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TrainTypeCode",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TrainTypeID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TrainTypeName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TripLine",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "TraTrainTicketPrice": [
+    {
+      "ContentFieldName": "OriginStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "OriginStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "DestinationStationID",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "DestinationStationName_Zh_tw",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Direction",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "TicketType",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "Price",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    },
+    {
+      "ContentFieldName": "UpdateTime",
+      "ContentType": "NVARCHAR(MAX)",
+      "IsNull": true
+    }
+  ],
+  "RequestUri": [
+    "MOTC/v2/Rail/TRA/Station?%24format=JSON",
+    "MOTC/v2/Rail/TRA/Line?$format=JSON",
+    "MOTC/v2/Rail/TRA/StationOfLine?$format=JSON",
+    "MOTC/v2/Rail/TRA/DailyTimetable/Station/1020/2022-02-12?$format=JSON",
+    "MOTC/v2/Rail/TRA/ODFare?%24format=JSON"
+  ]
+}

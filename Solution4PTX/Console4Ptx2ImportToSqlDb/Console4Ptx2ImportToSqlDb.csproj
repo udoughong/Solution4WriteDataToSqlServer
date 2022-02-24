@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLib4CreateSqlDb\ClassLib4CreateSqlDb.csproj" />
+    <ProjectReference Include="..\ClassLib4Ptx2GetJson\ClassLib4Ptx2GetJson.csproj" />
+  </ItemGroup>
+
+</Project>
